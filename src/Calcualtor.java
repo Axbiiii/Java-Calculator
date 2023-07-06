@@ -177,9 +177,7 @@ public class Calcualtor implements ActionListener {
 		jf.add(plusButton);
 		
 		
-		
-		
-
+	
 	}
 	  
 	  public static void main(String[] args) {
